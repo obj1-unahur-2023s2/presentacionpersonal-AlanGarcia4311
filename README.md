@@ -30,7 +30,7 @@ object programacionConObjetos {
 Me llamo **Alan García**, tengo 20 años y estoy en mi segundo año cursando la Tec. en Programación en la UNAHUR.
 Me inscribí en esta carrera porque siempre me interesó la tecnología y las computadoras, y espero poder dedicarme a esto en un futuro. :computer::books:
 
-![Imagen mía junto con mi mamá en Entre Rios](imagen.jpg)
+![Imagen mía junto con mi mamá en Entre Rios](./assets/xdxdx.jpg)
 
 Me gustan los videojuegos de todo tipo, también se edición (un poco básica) y me gusta la música del estilo rock argentino y extranjero.
 Mi sueño es poder independizarme y dedicarme a lo que me gusta y ser feliz con ello.
